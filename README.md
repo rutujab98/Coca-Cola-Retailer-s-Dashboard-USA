@@ -12,8 +12,10 @@ The dashboard is designed for fast decision-making, with comparisons across year
 | Column               | Description                                      |
 |----------------------|--------------------------------------------------|
 | Retailer             | Retail partner name (e.g., Amazon, BevCo)        |
+| Retailer ID          | Unique ID for the retailer                       |
 | Invoice Date         | Date of sale (used to extract year/quarter)      |
 | Region               | Region of transaction (e.g., Northeast, West)    |
+| State, City          | Geographic location 
 | Beverage Brand       | Coca-Cola brand sold (e.g., Fanta, Sprite)       |
 | Units Sold           | Total items sold                                 |
 | Price per Unit       | Selling price per unit                           |
