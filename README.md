@@ -98,4 +98,4 @@ These filters allow users to analyze trends and KPIs interactively by time perio
 
 ## 📷 Dashboard Preview
 
-![Coca-Cola Dashboard](images/coca-cola dashboard.png)
+![Coca-Cola Dashboard](./images/coca-cola-dashboard.png)
